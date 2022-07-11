@@ -1,0 +1,9 @@
+{
+  "load_extensions": {
+    "jupyter-gmaps/extension": true,
+    "jupyter-js-widgets/extension": true
+  },
+  "Notebook": {
+    "Toolbar": true
+  }
+}
